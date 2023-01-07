@@ -92,8 +92,8 @@
 
 /* watch section starts here */
 #watch-section{
-    /* background-image: url("./images/watch.png"); */
-    background: linear-gradient(360deg, #f15b22 0%, rgba(241,91,34,0) 100%), url("./images/watch.png"), url("./images/gradient1.png");
+    
+    background: linear-gradient(180deg, #f15b22 0%, rgba(241,91,34,0) 100%), url("./images/watch.png"), url("./images/gradient1.png");
     background-repeat: no-repeat;
     margin: 50px 150px 80px;
 }
