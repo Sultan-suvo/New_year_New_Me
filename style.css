@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header starts here */
+#header{
+    background-image: url("./images/banner/banner2.png");
+    background-repeat: no-repeat;
+    padding: 200px 30px;
+    
+}
+
+.header-item{
+    text-align: end;
+    padding: 0 90px 0 900px;
+}
+
+.header-tittle{
+    font-weight: 1100;
+    font-size: 45px;
+    margin-bottom: 20px;
+    
+}
+.header-desc{
+    color: #757575;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.header-btn{
+    padding: 14px 26px;
+    background-color: rgb(231, 80, 25);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+    font-weight: 900;
+}
+
+/* header ends here */
+
+/* miscarriage starts here */
+#miscarriage{
+    padding: 70px 150px;
+    
+}
+.miscarriage-items{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.miscarriage-tittle{
+    font-weight: 1100;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.miscarriage-desc,ul{
+    color: #757575;
+    font-size: 17px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+/* miscarriage ends here */
+
+
+/* plan section starts here */
+#plan-section{
+    padding: 70px 150px;
+}
+.plan-section-tittle{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 1500;
+    font-size: 35px;
+}
+.my-plan{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.plan-focus img{
+    margin-bottom: 10px;
+}
+.plan-focus-tittle{
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.plan-focus-desc{
+    color: #757575;
+}
+/* plan section ends here */
+
+/* watch section starts here */
+#watch-section{
+    background-image: url("./images/watch.png");
+    background-repeat: no-repeat;
+    margin: 50px 150px 80px;
+}
+.watch-section-item{
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 80px 50px;
+    width: 40%;
+}
+.watch-section-tittle{
+    color: white;
+    margin-bottom: 20px;
+}
+.watch-section-btn{
+    padding: 12px 24px;
+    font-size: 14px;
+}
+.watch-section-btn a{
+    color: coral;
+}
+/* watch section ends here */
+
+/* footer starts here */
+#foot{
+     background-color: black;
+     padding: 70px 150px;
+     display: flex;
+     gap: 290px;
+     align-items: center;
+}
+.contact-me-tittle{
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.contact-me-desc{
+    color: white;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.contact-me p,a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+}
+.contact-me img{
+    margin-right: 10px;
+    
+}
+.footer-subscribes-tittle{
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 15px;
+}
+.footer-subscribes input{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.footer-btn{
+    padding: 12px 24px;
+    color: rgb(231, 81, 6);
+    font-size: 14px;
+}
+/* footer enfds here */
